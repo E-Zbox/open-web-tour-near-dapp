@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "lib": ["ES2022", "ES2015"]
+  }
+}
